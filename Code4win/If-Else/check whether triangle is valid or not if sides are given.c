@@ -1,6 +1,6 @@
 //check whether triangle is valid or not if sides are given
 /*
- 	/\
+    /\
    /  \
 a+b>c  a+c>b  
  /______\
